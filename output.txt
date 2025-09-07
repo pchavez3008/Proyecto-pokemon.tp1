@@ -1,745 +1,443 @@
-Pokemon: pidgeot
-Altura: 150 centímetros
-Peso: 39.5 kilos
-
-Habilidades:
-* Vista Lince
-* Tumbos
-* Sacapecho
-
-Pokemon: raticate
-Altura: 70 centímetros
-Peso: 18.5 kilos
-
-Habilidades:
-* Fuga
-* Agallas
-* Entusiasmo
-
-Pokemon: fearow
-Altura: 120 centímetros
-Peso: 38 kilos
-
-Habilidades:
-* Vista Lince
-* Francotirador
-
-Pokemon: wigglytuff
-Altura: 100 centímetros
-Peso: 12 kilos
-
-Habilidades:
-* Gran Encanto
-* Tenacidad
-* Cacheo
-
-Pokemon: persian
-Altura: 100 centímetros
-Peso: 32 kilos
-
-Habilidades:
-* Flexibilidad
-* Experto
-* Nerviosismo
-
-Pokemon: farfetchd
-Altura: 80 centímetros
-Peso: 15 kilos
-
-Habilidades:
-* Vista Lince
-* Foco Interno
-* Competitivo
-
-Pokemon: dodrio
-Altura: 180 centímetros
-Peso: 85.2 kilos
-
-Habilidades:
-* Fuga
-* Madrugar
-* Tumbos
-
-Pokemon: lickitung
-Altura: 120 centímetros
-Peso: 65.5 kilos
-
-Habilidades:
-* Ritmo Propio
-* Despiste
-* Aclimatación
-
-Pokemon: chansey
-Altura: 110 centímetros
-Peso: 34.6 kilos
-
-Habilidades:
-* Cura Natural
-* Dicha
-* Alma Cura
-
-Pokemon: kangaskhan
-Altura: 220 centímetros
-Peso: 80 kilos
-
-Habilidades:
-* Madrugar
-* Intrépido
-* Foco Interno
-
-Pokemon: tauros
+Pokemon: golem
 Altura: 140 centímetros
-Peso: 88.4 kilos
+Peso: 300 kilos
 
 Habilidades:
-* Intimidación
-* Irascible
-* Potencia Bruta
+* Cabeza Roca
+* Robustez
+* Velo Arena
 
-Pokemon: porygon
-Altura: 80 centímetros
-Peso: 36.5 kilos
-
-Habilidades:
-* Rastro
-* Descarga
-* Cálculo Final
-
-Pokemon: snorlax
-Altura: 210 centímetros
-Peso: 460 kilos
+Pokemon: rhydon
+Altura: 190 centímetros
+Peso: 120 kilos
 
 Habilidades:
-* Inmunidad
-* Sebo
-* Gula
+* Pararrayos
+* Cabeza Roca
+* Audaz
 
-Pokemon: furret
-Altura: 180 centímetros
-Peso: 32.5 kilos
-
-Habilidades:
-* Fuga
-* Vista Lince
-* Cacheo
-
-Pokemon: noctowl
-Altura: 160 centímetros
-Peso: 40.8 kilos
-
-Habilidades:
-* Insomnio
-* Vista Lince
-* Cromolente
-
-Pokemon: aipom
-Altura: 80 centímetros
-Peso: 11.5 kilos
-
-Habilidades:
-* Fuga
-* Recogida
-* Encadenado
-
-Pokemon: girafarig
-Altura: 150 centímetros
-Peso: 41.5 kilos
-
-Habilidades:
-* Foco Interno
-* Madrugar
-* Herbívoro
-
-Pokemon: dunsparce
-Altura: 150 centímetros
-Peso: 14 kilos
-
-Habilidades:
-* Dicha
-* Fuga
-* Cobardía
-
-Pokemon: ursaring
-Altura: 180 centímetros
-Peso: 125.8 kilos
-
-Habilidades:
-* Agallas
-* Pies Rápidos
-* Nerviosismo
-
-Pokemon: porygon2
-Altura: 60 centímetros
-Peso: 32.5 kilos
-
-Habilidades:
-* Rastro
-* Descarga
-* Cálculo Final
-
-Pokemon: stantler
-Altura: 140 centímetros
-Peso: 71.2 kilos
-
-Habilidades:
-* Intimidación
-* Cacheo
-* Herbívoro
-
-Pokemon: miltank
-Altura: 120 centímetros
-Peso: 75.5 kilos
-
-Habilidades:
-* Sebo
-* Intrépido
-* Herbívoro
-
-Pokemon: blissey
-Altura: 150 centímetros
-Peso: 46.8 kilos
-
-Habilidades:
-* Cura Natural
-* Dicha
-* Alma Cura
-
-Pokemon: linoone
-Altura: 50 centímetros
-Peso: 32.5 kilos
-
-Habilidades:
-* Recogida
-* Gula
-* Pies Rápidos
-
-Pokemon: swellow
-Altura: 70 centímetros
-Peso: 19.8 kilos
-
-Habilidades:
-* Agallas
-* Intrépido
-
-Pokemon: vigoroth
-Altura: 140 centímetros
-Peso: 46.5 kilos
-
-Habilidades:
-* Espíritu Vital
-
-Pokemon: slaking
-Altura: 200 centímetros
-Peso: 130.5 kilos
-
-Habilidades:
-* Ausente
-
-Pokemon: loudred
+Pokemon: omastar
 Altura: 100 centímetros
+Peso: 35 kilos
+
+Habilidades:
+* Nado Rápido
+* Caparazón
+* Armadura Frágil
+
+Pokemon: kabutops
+Altura: 130 centímetros
 Peso: 40.5 kilos
 
 Habilidades:
-* Insonorizar
-* Intrépido
+* Nado Rápido
+* Armadura Batalla
+* Armadura Frágil
 
-Pokemon: exploud
-Altura: 150 centímetros
-Peso: 84 kilos
-
-Habilidades:
-* Insonorizar
-* Intrépido
-
-Pokemon: delcatty
-Altura: 110 centímetros
-Peso: 32.6 kilos
+Pokemon: aerodactyl
+Altura: 180 centímetros
+Peso: 59 kilos
 
 Habilidades:
-* Gran Encanto
-* Normalidad
-* Piel Milagro
+* Cabeza Roca
+* Presión
+* Nerviosismo
 
-Pokemon: spinda
-Altura: 110 centímetros
-Peso: 5 kilos
+Pokemon: shuckle
+Altura: 60 centímetros
+Peso: 20.5 kilos
 
 Habilidades:
-* Ritmo Propio
-* Tumbos
+* Robustez
+* Gula
 * Respondón
 
-Pokemon: zangoose
-Altura: 130 centímetros
-Peso: 40.3 kilos
+Pokemon: magcargo
+Altura: 80 centímetros
+Peso: 55 kilos
 
 Habilidades:
-* Inmunidad
-* Ímpetu Tóxico
+* Escudo Magma
+* Cuerpo Llama
+* Armadura Frágil
 
-Pokemon: castform
-Altura: 30 centímetros
-Peso: 0.8 kilos
-
-Habilidades:
-* Predicción
-
-Pokemon: kecleon
-Altura: 100 centímetros
-Peso: 22 kilos
+Pokemon: tyranitar
+Altura: 200 centímetros
+Peso: 202 kilos
 
 Habilidades:
-* Cambio Color
-* Mutatipo
-
-Pokemon: staraptor
-Altura: 120 centímetros
-Peso: 24.9 kilos
-
-Habilidades:
-* Intimidación
-* Audaz
-
-Pokemon: bibarel
-Altura: 100 centímetros
-Peso: 31.5 kilos
-
-Habilidades:
-* Simple
-* Ignorante
-* Veleta
-
-Pokemon: ambipom
-Altura: 120 centímetros
-Peso: 20.3 kilos
-
-Habilidades:
-* Experto
-* Recogida
-* Encadenado
-
-Pokemon: buneary
-Altura: 40 centímetros
-Peso: 5.5 kilos
-
-Habilidades:
-* Fuga
-* Zoquete
-* Flexibilidad
-
-Pokemon: lopunny
-Altura: 120 centímetros
-Peso: 33.3 kilos
-
-Habilidades:
-* Gran Encanto
-* Zoquete
-* Flexibilidad
-
-Pokemon: purugly
-Altura: 100 centímetros
-Peso: 43.8 kilos
-
-Habilidades:
-* Sebo
-* Ritmo Propio
-* Competitivo
-
-Pokemon: chatot
-Altura: 50 centímetros
-Peso: 1.9 kilos
-
-Habilidades:
-* Vista Lince
-* Tumbos
-* Sacapecho
-
-Pokemon: munchlax
-Altura: 60 centímetros
-Peso: 105 kilos
-
-Habilidades:
-* Recogida
-* Sebo
-* Gula
-
-Pokemon: lickilicky
-Altura: 170 centímetros
-Peso: 140 kilos
-
-Habilidades:
-* Ritmo Propio
-* Despiste
-* Aclimatación
-
-Pokemon: porygon-z
-Altura: 90 centímetros
-Peso: 34 kilos
-
-Habilidades:
-* Adaptable
-* Descarga
-* Cálculo Final
-
-Pokemon: regigigas
-Altura: 370 centímetros
-Peso: 420 kilos
-
-Habilidades:
-* Inicio Lento
-
-Pokemon: arceus
-Altura: 320 centímetros
-Peso: 320 kilos
-
-Habilidades:
-* Multitipo
-
-Pokemon: watchog
-Altura: 110 centímetros
-Peso: 27 kilos
-
-Habilidades:
-* Iluminación
-* Vista Lince
-* Cálculo Final
-
-Pokemon: herdier
-Altura: 90 centímetros
-Peso: 14.7 kilos
-
-Habilidades:
-* Intimidación
-* Ímpetu Arena
-* Intrépido
-
-Pokemon: stoutland
-Altura: 120 centímetros
-Peso: 61 kilos
-
-Habilidades:
-* Intimidación
-* Ímpetu Arena
-* Intrépido
-
-Pokemon: tranquill
-Altura: 60 centímetros
-Peso: 15 kilos
-
-Habilidades:
-* Sacapecho
-* Afortunado
-* Rivalidad
-
-Pokemon: unfezant
-Altura: 120 centímetros
-Peso: 29 kilos
-
-Habilidades:
-* Sacapecho
-* Afortunado
-* Rivalidad
-
-Pokemon: audino
-Altura: 110 centímetros
-Peso: 31 kilos
-
-Habilidades:
-* Alma Cura
-* Regeneración
-* Zoquete
-
-Pokemon: cinccino
-Altura: 50 centímetros
-Peso: 7.5 kilos
-
-Habilidades:
-* Gran Encanto
-* Experto
-* Encadenado
-
-Pokemon: sawsbuck
-Altura: 190 centímetros
-Peso: 92.5 kilos
-
-Habilidades:
-* Clorofila
-* Herbívoro
-* Dicha
-
-Pokemon: bouffalant
-Altura: 160 centímetros
-Peso: 94.6 kilos
-
-Habilidades:
-* Audaz
-* Herbívoro
-* Insonorizar
-
-Pokemon: rufflet
-Altura: 50 centímetros
-Peso: 10.5 kilos
-
-Habilidades:
-* Vista Lince
-* Potencia Bruta
-* Entusiasmo
-
-Pokemon: braviary
-Altura: 150 centímetros
-Peso: 41 kilos
-
-Habilidades:
-* Vista Lince
-* Potencia Bruta
-* Competitivo
-
-Pokemon: meloetta-aria
-Altura: 60 centímetros
-Peso: 6.5 kilos
-
-Habilidades:
-* Dicha
-
-Pokemon: diggersby
-Altura: 100 centímetros
-Peso: 42.4 kilos
-
-Habilidades:
-* Recogida
-* Carrillo
-* Potencia
-
-Pokemon: litleo
-Altura: 60 centímetros
-Peso: 13.5 kilos
-
-Habilidades:
-* Rivalidad
+* Chorro Arena
 * Nerviosismo
-* Autoestima
 
-Pokemon: pyroar
-Altura: 150 centímetros
-Peso: 81.5 kilos
-
-Habilidades:
-* Rivalidad
-* Nerviosismo
-* Autoestima
-
-Pokemon: furfrou
-Altura: 120 centímetros
-Peso: 28 kilos
+Pokemon: lairon
+Altura: 90 centímetros
+Peso: 120 kilos
 
 Habilidades:
-* Pelaje Recio
+* Robustez
+* Cabeza Roca
+* Metal Pesado
 
-Pokemon: heliolisk
-Altura: 100 centímetros
-Peso: 21 kilos
-
-Habilidades:
-* Piel Seca
-* Velo Arena
-* Poder Solar
-
-Pokemon: trumbeak
-Altura: 60 centímetros
-Peso: 14.8 kilos
-
-Habilidades:
-* Vista Lince
-* Encadenado
-* Recogida
-
-Pokemon: toucannon
-Altura: 110 centímetros
-Peso: 26 kilos
-
-Habilidades:
-* Vista Lince
-* Encadenado
-* Potencia Bruta
-
-Pokemon: gumshoos
-Altura: 70 centímetros
-Peso: 14.2 kilos
-
-Habilidades:
-* Vigilante
-* Mandíbula Fuerte
-* Adaptable
-
-Pokemon: bewear
+Pokemon: aggron
 Altura: 210 centímetros
-Peso: 135 kilos
+Peso: 360 kilos
 
 Habilidades:
-* Peluche
-* Zoquete
-* Nerviosismo
+* Robustez
+* Cabeza Roca
+* Metal Pesado
 
-Pokemon: oranguru
+Pokemon: lunatone
+Altura: 100 centímetros
+Peso: 168 kilos
+
+Habilidades:
+* Levitación
+
+Pokemon: solrock
+Altura: 120 centímetros
+Peso: 154 kilos
+
+Habilidades:
+* Levitación
+
+Pokemon: cradily
 Altura: 150 centímetros
-Peso: 76 kilos
+Peso: 60.4 kilos
 
 Habilidades:
-* Foco Interno
-* Telepatía
-* Simbiosis
+* Ventosas
+* Colector
 
-Pokemon: type-null
-Altura: 190 centímetros
-Peso: 120.5 kilos
+Pokemon: armaldo
+Altura: 150 centímetros
+Peso: 68.2 kilos
 
 Habilidades:
 * Armadura Batalla
+* Nado Rápido
 
-Pokemon: silvally
-Altura: 230 centímetros
-Peso: 100.5 kilos
-
-Habilidades:
-* Sistema Alfa
-
-Pokemon: komala
-Altura: 40 centímetros
-Peso: 19.9 kilos
+Pokemon: relicanth
+Altura: 100 centímetros
+Peso: 23.4 kilos
 
 Habilidades:
-* Letargo Perenne
+* Nado Rápido
+* Cabeza Roca
+* Robustez
 
-Pokemon: drampa
-Altura: 300 centímetros
-Peso: 185 kilos
-
-Habilidades:
-* Cólera
-* Herbívoro
-* Aclimatación
-
-Pokemon: greedent
-Altura: 60 centímetros
-Peso: 6 kilos
+Pokemon: regirock
+Altura: 170 centímetros
+Peso: 230 kilos
 
 Habilidades:
-* Carrillo
-* Gula
+* Cuerpo Puro
+* Robustez
 
-Pokemon: dubwool
-Altura: 130 centímetros
-Peso: 43 kilos
-
-Habilidades:
-* Peluche
-* Impasible
-* Antibalas
-
-Pokemon: obstagoon
+Pokemon: rampardos
 Altura: 160 centímetros
-Peso: 46 kilos
+Peso: 102.5 kilos
 
 Habilidades:
+* Rompemoldes
+* Potencia Bruta
+
+Pokemon: bastiodon
+Altura: 130 centímetros
+Peso: 149.5 kilos
+
+Habilidades:
+* Robustez
+* Insonorizar
+
+Pokemon: rhyperior
+Altura: 240 centímetros
+Peso: 282.8 kilos
+
+Habilidades:
+* Pararrayos
+* Roca Sólida
 * Audaz
-* Agallas
-* Competitivo
 
-Pokemon: indeedee-male
-Altura: 90 centímetros
-Peso: 28 kilos
+Pokemon: probopass
+Altura: 140 centímetros
+Peso: 340 kilos
 
 Habilidades:
-* Foco Interno
-* Sincronía
-* Psicogénesis
+* Robustez
+* Imán
+* Poder Arena
 
-Pokemon: meloetta-pirouette
-Altura: 60 centímetros
-Peso: 6.5 kilos
-
-Habilidades:
-* Dicha
-
-Pokemon: kangaskhan-mega
-Altura: 220 centímetros
-Peso: 100 kilos
+Pokemon: gigalith
+Altura: 170 centímetros
+Peso: 260 kilos
 
 Habilidades:
-* Amor Filial
+* Robustez
+* Chorro Arena
+* Poder Arena
 
-Pokemon: audino-mega
-Altura: 150 centímetros
+Pokemon: crustle
+Altura: 140 centímetros
+Peso: 200 kilos
+
+Habilidades:
+* Robustez
+* Caparazón
+* Armadura Frágil
+
+Pokemon: carracosta
+Altura: 120 centímetros
+Peso: 81 kilos
+
+Habilidades:
+* Roca Sólida
+* Robustez
+* Nado Rápido
+
+Pokemon: archeops
+Altura: 140 centímetros
 Peso: 32 kilos
 
 Habilidades:
-* Alma Cura
+* Flaqueza
 
-Pokemon: pidgeot-mega
-Altura: 220 centímetros
-Peso: 50.5 kilos
+Pokemon: terrakion
+Altura: 190 centímetros
+Peso: 260 kilos
 
 Habilidades:
+* Justiciero
+
+Pokemon: barbaracle
+Altura: 130 centímetros
+Peso: 96 kilos
+
+Habilidades:
+* Garra Dura
+* Francotirador
+* Hurto
+
+Pokemon: tyrantrum
+Altura: 250 centímetros
+Peso: 270 kilos
+
+Habilidades:
+* Mandíbula Fuerte
+* Cabeza Roca
+
+Pokemon: aurorus
+Altura: 270 centímetros
+Peso: 225 kilos
+
+Habilidades:
+* Piel Helada
+* Nevada
+
+Pokemon: carbink
+Altura: 30 centímetros
+Peso: 5.7 kilos
+
+Habilidades:
+* Cuerpo Puro
+* Robustez
+
+Pokemon: diancie
+Altura: 70 centímetros
+Peso: 8.8 kilos
+
+Habilidades:
+* Cuerpo Puro
+
+Pokemon: lycanroc-midday
+Altura: 80 centímetros
+Peso: 25 kilos
+
+Habilidades:
+* Vista Lince
+* Ímpetu Arena
+* Impasible
+
+Pokemon: minior-red-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: nihilego
+Altura: 120 centímetros
+Peso: 55.5 kilos
+
+Habilidades:
+* Ultraimpulso
+
+Pokemon: stakataka
+Altura: 550 centímetros
+Peso: 820 kilos
+
+Habilidades:
+* Ultraimpulso
+
+Pokemon: drednaw
+Altura: 100 centímetros
+Peso: 115.5 kilos
+
+Habilidades:
+* Mandíbula Fuerte
+* Caparazón
+* Nado Rápido
+
+Pokemon: coalossal
+Altura: 280 centímetros
+Peso: 310.5 kilos
+
+Habilidades:
+* Combustible
+* Cuerpo Llama
+* Absorbe Fuego
+
+Pokemon: stonjourner
+Altura: 250 centímetros
+Peso: 520 kilos
+
+Habilidades:
+* Fuente Energía
+
+Pokemon: aerodactyl-mega
+Altura: 210 centímetros
+Peso: 79 kilos
+
+Habilidades:
+* Garra Dura
+
+Pokemon: tyranitar-mega
+Altura: 250 centímetros
+Peso: 255 kilos
+
+Habilidades:
+* Chorro Arena
+
+Pokemon: diancie-mega
+Altura: 110 centímetros
+Peso: 27.8 kilos
+
+Habilidades:
+* Espejo Mágico
+
+Pokemon: golem-alola
+Altura: 170 centímetros
+Peso: 316 kilos
+
+Habilidades:
+* Imán
+* Robustez
+* Piel Eléctrica
+
+Pokemon: lycanroc-midnight
+Altura: 110 centímetros
+Peso: 25 kilos
+
+Habilidades:
+* Vista Lince
+* Espíritu Vital
 * Indefenso
 
-Pokemon: lopunny-mega
-Altura: 130 centímetros
-Peso: 28.3 kilos
-
-Habilidades:
-* Intrépido
-
-Pokemon: raticate-alola
-Altura: 70 centímetros
-Peso: 25.5 kilos
-
-Habilidades:
-* Gula
-* Entusiasmo
-* Sebo
-
-Pokemon: raticate-totem-alola
-Altura: 140 centímetros
-Peso: 105 kilos
-
-Habilidades:
-* Gula
-* Entusiasmo
-* Sebo
-
-Pokemon: gumshoos-totem
-Altura: 140 centímetros
-Peso: 60 kilos
-
-Habilidades:
-* Vigilante
-* Mandíbula Fuerte
-* Adaptable
-
-Pokemon: eevee-starter
+Pokemon: minior-orange-meteor
 Altura: 30 centímetros
-Peso: 6.5 kilos
+Peso: 40 kilos
 
 Habilidades:
-* Fuga
-* Adaptable
-* Anticipación
+* Escudo Limitado
 
-Pokemon: linoone-galar
-Altura: 50 centímetros
-Peso: 32.5 kilos
+Pokemon: minior-yellow-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
 
 Habilidades:
-* Recogida
-* Gula
-* Pies Rápidos
+* Escudo Limitado
 
-Pokemon: indeedee-female
-Altura: 90 centímetros
-Peso: 28 kilos
+Pokemon: minior-green-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
 
 Habilidades:
-* Ritmo Propio
-* Sincronía
-* Psicogénesis
+* Escudo Limitado
+
+Pokemon: minior-blue-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-indigo-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-violet-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-red
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-orange
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-yellow
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-green
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-blue
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-indigo
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-violet
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: lycanroc-dusk
+Altura: 80 centímetros
+Peso: 25 kilos
+
+Habilidades:
+* Garra Dura
 
