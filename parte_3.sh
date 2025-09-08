@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# filepath: c:\Users\lopez\OneDrive\Desktop\pokemon\parte_3.sh
-
 PADRON="$1"
 DIRECTORIO="directorio_resultados"
 
