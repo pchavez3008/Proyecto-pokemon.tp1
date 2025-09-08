@@ -1,16 +1,15 @@
 #!/bin/bash
 
 while read nombre; do
-  # me da el id, altura y el peso
-  info=$(awk -F',' -v n="$nombre" 'NR>1 && tolower($2)==tolower(n) {print $1, $4*10, $5/10}' ./data/pokemon.csv)
-  if [ -z "$info" ]; then
-    echo "Pokemon no encontrado: $nombre"
-    echo ""
-    continue
-  fi
-  id=$(echo $info | cut -d' ' -f1)
-  altura=$(echo $info | cut -d' ' -f2)
-  peso=$(echo $info | cut -d' ' -f3)
+  info=$(tail -n +2 ./data/pokemon.csv | grep -i ",$nombre," | head -n 1)
+  [ -z "$info" ] && continue
+
+  id=$(echo "$info" | cut -d',' -f1)
+  altura=$(echo "$info" | cut -d',' -f4)
+  peso=$(echo "$info" | cut -d',' -f5)
+
+  altura=$((altura * 10))
+  peso=$(echo "scale=1; $peso/10" | bc)
 
   echo "Pokemon: $nombre"
   echo "Altura: $altura centímetros"
@@ -18,16 +17,10 @@ while read nombre; do
   echo ""
   echo "Habilidades:"
 
-  habilidades=$(awk -F',' -v pid="$id" 'NR>1 && $1==pid {print $2}' ./data/pokemon_abilities.csv)
-  if [ -z "$habilidades" ]; then
-    echo "* No tiene habilidades registradas"
-  else
-    while read abid; do
-      habilidad=$(awk -F',' -v aid="$abid" 'NR>1 && $1==aid && $2==7 {print $3}' "./data/ability_names (1).csv")
-      if [ -n "$habilidad" ]; then
-        echo "* $habilidad"
-      fi
-    done <<< "$habilidades"
-  fi
+  grep -E "^$id," ./data/pokemon_abilities.csv | cut -d',' -f2 | while read abid; do
+    habilidad=$(grep -E "^$abid,7," ./data/ability_names.csv | cut -d',' -f3)
+    [ -n "$habilidad" ] && echo "* $habilidad"
+  done
+
   echo ""
 done
