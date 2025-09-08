@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while read nombre; do
-  # Obtener id, altura y peso
+  # me da el id, altura y el peso
   info=$(awk -F',' -v n="$nombre" 'NR>1 && tolower($2)==tolower(n) {print $1, $4*10, $5/10}' ./data/pokemon.csv)
   if [ -z "$info" ]; then
     echo "Pokemon no encontrado: $nombre"
@@ -20,7 +20,7 @@ while read nombre; do
 
   habilidades=$(awk -F',' -v pid="$id" 'NR>1 && $1==pid {print $2}' ./data/pokemon_abilities.csv)
   if [ -z "$habilidades" ]; then
-    echo "* Sin habilidades registradas"
+    echo "* No tiene habilidades registradas"
   else
     while read abid; do
       habilidad=$(awk -F',' -v aid="$abid" 'NR>1 && $1==aid && $2==7 {print $3}' "./data/ability_names (1).csv")
