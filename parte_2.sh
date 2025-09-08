@@ -1,12 +1,15 @@
 #!/bin/bash
 
 while read nombre; do
-  # Obtener id, altura y peso
-  info=$(awk -F',' -v n="$nombre" 'NR>1 && $2==n {print $1, $4*10, $5/10}' ./data/pokemon.csv)
+  info=$(tail -n +2 ./data/pokemon.csv | grep -i ",$nombre," | head -n 1)
   [ -z "$info" ] && continue
-  id=$(echo $info | cut -d' ' -f1)
-  altura=$(echo $info | cut -d' ' -f2)
-  peso=$(echo $info | cut -d' ' -f3)
+
+  id=$(echo "$info" | cut -d',' -f1)
+  altura=$(echo "$info" | cut -d',' -f4)
+  peso=$(echo "$info" | cut -d',' -f5)
+
+  altura=$((altura * 10))
+  peso=$(echo "scale=1; $peso/10" | bc)
 
   echo "Pokemon: $nombre"
   echo "Altura: $altura centímetros"
@@ -14,10 +17,10 @@ while read nombre; do
   echo ""
   echo "Habilidades:"
 
-  # Obtener habilidades en español (local_language_id == 7)
-  awk -F',' -v pid="$id" 'NR>1 && $1==pid {print $2}' ./data/pokemon_abilities.csv | while read abid; do
-    habilidad=$(awk -F',' -v aid="$abid" 'NR>1 && $1==aid && $2==7 {print $3}' "./data/ability_names (1).csv")
+  grep -E "^$id," ./data/pokemon_abilities.csv | cut -d',' -f2 | while read abid; do
+    habilidad=$(grep -E "^$abid,7," ./data/ability_names.csv | cut -d',' -f3)
     [ -n "$habilidad" ] && echo "* $habilidad"
   done
+
   echo ""
 done
