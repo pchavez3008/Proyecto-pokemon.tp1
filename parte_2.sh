@@ -30,5 +30,3 @@ while read nombre; do
     habilidad=$(grep -E "^$abid,7," "$ABILITY_NAMES" | cut -d',' -f3)
     [ -n "$habilidad" ] && echo "* $habilidad"
   done
-
-  echo ""
