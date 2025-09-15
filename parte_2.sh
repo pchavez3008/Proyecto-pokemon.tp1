@@ -32,4 +32,3 @@ while read nombre; do
   done
 
   echo ""
-done
