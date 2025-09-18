@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/user/bin/env bash
 
 PADRON="$1"
 DIRECTORIO="directorio_resultados"
