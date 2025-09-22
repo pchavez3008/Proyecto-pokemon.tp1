@@ -1,0 +1,443 @@
+Pokemon: golem
+Altura: 140 centímetros
+Peso: 300 kilos
+
+Habilidades:
+* Cabeza Roca
+* Robustez
+* Velo Arena
+
+Pokemon: rhydon
+Altura: 190 centímetros
+Peso: 120 kilos
+
+Habilidades:
+* Pararrayos
+* Cabeza Roca
+* Audaz
+
+Pokemon: omastar
+Altura: 100 centímetros
+Peso: 35 kilos
+
+Habilidades:
+* Nado Rápido
+* Caparazón
+* Armadura Frágil
+
+Pokemon: kabutops
+Altura: 130 centímetros
+Peso: 40.5 kilos
+
+Habilidades:
+* Nado Rápido
+* Armadura Batalla
+* Armadura Frágil
+
+Pokemon: aerodactyl
+Altura: 180 centímetros
+Peso: 59 kilos
+
+Habilidades:
+* Cabeza Roca
+* Presión
+* Nerviosismo
+
+Pokemon: shuckle
+Altura: 60 centímetros
+Peso: 20.5 kilos
+
+Habilidades:
+* Robustez
+* Gula
+* Respondón
+
+Pokemon: magcargo
+Altura: 80 centímetros
+Peso: 55 kilos
+
+Habilidades:
+* Escudo Magma
+* Cuerpo Llama
+* Armadura Frágil
+
+Pokemon: tyranitar
+Altura: 200 centímetros
+Peso: 202 kilos
+
+Habilidades:
+* Chorro Arena
+* Nerviosismo
+
+Pokemon: lairon
+Altura: 90 centímetros
+Peso: 120 kilos
+
+Habilidades:
+* Robustez
+* Cabeza Roca
+* Metal Pesado
+
+Pokemon: aggron
+Altura: 210 centímetros
+Peso: 360 kilos
+
+Habilidades:
+* Robustez
+* Cabeza Roca
+* Metal Pesado
+
+Pokemon: lunatone
+Altura: 100 centímetros
+Peso: 168 kilos
+
+Habilidades:
+* Levitación
+
+Pokemon: solrock
+Altura: 120 centímetros
+Peso: 154 kilos
+
+Habilidades:
+* Levitación
+
+Pokemon: cradily
+Altura: 150 centímetros
+Peso: 60.4 kilos
+
+Habilidades:
+* Ventosas
+* Colector
+
+Pokemon: armaldo
+Altura: 150 centímetros
+Peso: 68.2 kilos
+
+Habilidades:
+* Armadura Batalla
+* Nado Rápido
+
+Pokemon: relicanth
+Altura: 100 centímetros
+Peso: 23.4 kilos
+
+Habilidades:
+* Nado Rápido
+* Cabeza Roca
+* Robustez
+
+Pokemon: regirock
+Altura: 170 centímetros
+Peso: 230 kilos
+
+Habilidades:
+* Cuerpo Puro
+* Robustez
+
+Pokemon: rampardos
+Altura: 160 centímetros
+Peso: 102.5 kilos
+
+Habilidades:
+* Rompemoldes
+* Potencia Bruta
+
+Pokemon: bastiodon
+Altura: 130 centímetros
+Peso: 149.5 kilos
+
+Habilidades:
+* Robustez
+* Insonorizar
+
+Pokemon: rhyperior
+Altura: 240 centímetros
+Peso: 282.8 kilos
+
+Habilidades:
+* Pararrayos
+* Roca Sólida
+* Audaz
+
+Pokemon: probopass
+Altura: 140 centímetros
+Peso: 340 kilos
+
+Habilidades:
+* Robustez
+* Imán
+* Poder Arena
+
+Pokemon: gigalith
+Altura: 170 centímetros
+Peso: 260 kilos
+
+Habilidades:
+* Robustez
+* Chorro Arena
+* Poder Arena
+
+Pokemon: crustle
+Altura: 140 centímetros
+Peso: 200 kilos
+
+Habilidades:
+* Robustez
+* Caparazón
+* Armadura Frágil
+
+Pokemon: carracosta
+Altura: 120 centímetros
+Peso: 81 kilos
+
+Habilidades:
+* Roca Sólida
+* Robustez
+* Nado Rápido
+
+Pokemon: archeops
+Altura: 140 centímetros
+Peso: 32 kilos
+
+Habilidades:
+* Flaqueza
+
+Pokemon: terrakion
+Altura: 190 centímetros
+Peso: 260 kilos
+
+Habilidades:
+* Justiciero
+
+Pokemon: barbaracle
+Altura: 130 centímetros
+Peso: 96 kilos
+
+Habilidades:
+* Garra Dura
+* Francotirador
+* Hurto
+
+Pokemon: tyrantrum
+Altura: 250 centímetros
+Peso: 270 kilos
+
+Habilidades:
+* Mandíbula Fuerte
+* Cabeza Roca
+
+Pokemon: aurorus
+Altura: 270 centímetros
+Peso: 225 kilos
+
+Habilidades:
+* Piel Helada
+* Nevada
+
+Pokemon: carbink
+Altura: 30 centímetros
+Peso: 5.7 kilos
+
+Habilidades:
+* Cuerpo Puro
+* Robustez
+
+Pokemon: diancie
+Altura: 70 centímetros
+Peso: 8.8 kilos
+
+Habilidades:
+* Cuerpo Puro
+
+Pokemon: lycanroc-midday
+Altura: 80 centímetros
+Peso: 25 kilos
+
+Habilidades:
+* Vista Lince
+* Ímpetu Arena
+* Impasible
+
+Pokemon: minior-red-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: nihilego
+Altura: 120 centímetros
+Peso: 55.5 kilos
+
+Habilidades:
+* Ultraimpulso
+
+Pokemon: stakataka
+Altura: 550 centímetros
+Peso: 820 kilos
+
+Habilidades:
+* Ultraimpulso
+
+Pokemon: drednaw
+Altura: 100 centímetros
+Peso: 115.5 kilos
+
+Habilidades:
+* Mandíbula Fuerte
+* Caparazón
+* Nado Rápido
+
+Pokemon: coalossal
+Altura: 280 centímetros
+Peso: 310.5 kilos
+
+Habilidades:
+* Combustible
+* Cuerpo Llama
+* Absorbe Fuego
+
+Pokemon: stonjourner
+Altura: 250 centímetros
+Peso: 520 kilos
+
+Habilidades:
+* Fuente Energía
+
+Pokemon: aerodactyl-mega
+Altura: 210 centímetros
+Peso: 79 kilos
+
+Habilidades:
+* Garra Dura
+
+Pokemon: tyranitar-mega
+Altura: 250 centímetros
+Peso: 255 kilos
+
+Habilidades:
+* Chorro Arena
+
+Pokemon: diancie-mega
+Altura: 110 centímetros
+Peso: 27.8 kilos
+
+Habilidades:
+* Espejo Mágico
+
+Pokemon: golem-alola
+Altura: 170 centímetros
+Peso: 316 kilos
+
+Habilidades:
+* Imán
+* Robustez
+* Piel Eléctrica
+
+Pokemon: lycanroc-midnight
+Altura: 110 centímetros
+Peso: 25 kilos
+
+Habilidades:
+* Vista Lince
+* Espíritu Vital
+* Indefenso
+
+Pokemon: minior-orange-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-yellow-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-green-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-blue-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-indigo-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-violet-meteor
+Altura: 30 centímetros
+Peso: 40 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-red
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-orange
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-yellow
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-green
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-blue
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-indigo
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: minior-violet
+Altura: 30 centímetros
+Peso: 0.3 kilos
+
+Habilidades:
+* Escudo Limitado
+
+Pokemon: lycanroc-dusk
+Altura: 80 centímetros
+Peso: 25 kilos
+
+Habilidades:
+* Garra Dura
+
